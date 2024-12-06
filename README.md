@@ -1,1 +1,2 @@
 # My-goal
+My goal is to develop an advanced AI-powered hacking tool similar to what is seen in sci-fi movies like Fast and Furious. This tool will integrate all available testing tools (such as Metasploit, Nmap, Hydra, Nikto, searchsploit, etc.) into a single system that automatically analyzes the target, creates custom vulnerabilities even if there are no vulnerabilities and executes them based on AI data for instant hacking without manual intervention.
